@@ -1,0 +1,8 @@
+ultralytics
+opencv-python
+pyaudio
+cvzone
+tkinter
+keras
+mediapipe
+skimage
