@@ -91,6 +91,11 @@ Built using **Tkinter**, the interface provides real-time monitoring:
   * A child exiting the door
 
 ---
+### 📧 Gmail Alert System
+- The system integrates with the **Gmail API** to send email notifications when:
+  - A fall is detected
+  - A child is detected exiting through a door
+---
 
 ## 📊 Results Visualization
 
