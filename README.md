@@ -134,7 +134,6 @@ We welcome collaboration to:
 
 ## 📫 Contact
 
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
 🌐 GitHub: [github.com/PVL-Linh](https://github.com/PVL-Linh)
 
 ---
