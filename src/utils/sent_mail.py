@@ -5,9 +5,9 @@ import time
 
 
 def send_mail():
-    sender_email = "vanlinh10042003@gmail.com"
-    receiver_email = "vanlinh10042003@gmail.com"
-    password = "aumk zwog upnn jglw"
+    sender_email = "mail"
+    receiver_email = "mail"
+    password = "password_mail"
 
     # Lấy thời gian hiện tại
     current_time = time.strftime("%Y-%m-%d %H:%M", time.localtime())
